@@ -1,0 +1,81 @@
+location_city,skill,count
+Bengaluru,Sql,46
+Bengaluru,Power Bi,45
+Bengaluru,Communication,44
+Bengaluru,Excel,43
+Bengaluru,Python,40
+Bengaluru,Statistics,40
+Bengaluru,Tableau,35
+Bengaluru,Data Warehousing,31
+Bengaluru,Gcp,31
+Bengaluru,Data Cleaning,30
+Chennai,Python,57
+Chennai,Power Bi,42
+Chennai,Excel,41
+Chennai,Sql,40
+Chennai,Pytorch,39
+Chennai,Statistics,38
+Chennai,Tensorflow,37
+Chennai,Data Warehousing,36
+Chennai,Tableau,35
+Chennai,Pandas,35
+Delhi,Python,58
+Delhi,Tableau,48
+Delhi,Excel,47
+Delhi,Sql,47
+Delhi,Power Bi,45
+Delhi,Statistics,44
+Delhi,Pandas,39
+Delhi,Data Warehousing,38
+Delhi,Aws,36
+Delhi,Azure,35
+Gurugram,Sql,48
+Gurugram,Excel,48
+Gurugram,Power Bi,47
+Gurugram,Statistics,44
+Gurugram,Python,41
+Gurugram,Tableau,38
+Gurugram,Communication,37
+Gurugram,Data Warehousing,36
+Gurugram,Data Cleaning,35
+Gurugram,Pandas,28
+Hyderabad,Python,51
+Hyderabad,Statistics,39
+Hyderabad,Tableau,38
+Hyderabad,Power Bi,38
+Hyderabad,Excel,38
+Hyderabad,Sql,37
+Hyderabad,Pytorch,34
+Hyderabad,Tensorflow,34
+Hyderabad,Pandas,32
+Hyderabad,Docker,32
+Mumbai,Python,52
+Mumbai,Power Bi,48
+Mumbai,Sql,48
+Mumbai,Statistics,46
+Mumbai,Excel,46
+Mumbai,Data Cleaning,37
+Mumbai,Communication,36
+Mumbai,Azure,35
+Mumbai,Data Warehousing,33
+Mumbai,Tensorflow,32
+Noida,Python,45
+Noida,Statistics,36
+Noida,Sql,32
+Noida,Excel,31
+Noida,Power Bi,30
+Noida,Tensorflow,29
+Noida,Scikit-Learn,28
+Noida,Pandas,27
+Noida,Pytorch,26
+Noida,Airflow,24
+Pune,Python,62
+Pune,Power Bi,59
+Pune,Sql,53
+Pune,Excel,53
+Pune,Statistics,48
+Pune,Airflow,48
+Pune,Gcp,46
+Pune,Data Warehousing,46
+Pune,Azure,46
+Pune,Pytorch,46

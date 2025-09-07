@@ -1,0 +1,19 @@
+Job Demand Recommendations
+
+By City:
+- Bengaluru: Focus on Sql, Power Bi, Communication
+- Chennai: Focus on Python, Power Bi, Excel
+- Delhi: Focus on Python, Tableau, Excel
+- Gurugram: Focus on Sql, Excel, Power Bi
+- Hyderabad: Focus on Python, Statistics, Tableau
+- Mumbai: Focus on Python, Power Bi, Sql
+- Noida: Focus on Python, Statistics, Sql
+- Pune: Focus on Python, Power Bi, Sql
+
+By Role:
+- BI Analyst: Prioritize Looker, Data Warehousing, Communication, Tableau, Excel
+- Business Analyst: Prioritize A/B Testing, Data Cleaning, Communication, Statistics, Excel
+- Data Analyst: Prioritize Data Cleaning, Pandas, Tableau, Statistics, Excel
+- Data Engineer: Prioritize Spark, Databricks, Bigquery, Etl, Snowflake
+- Data Scientist: Prioritize Nlp, Feature Engineering, Deep Learning, Numpy, Scikit-Learn
+- Machine Learning Engineer: Prioritize Ml Ops, Docker, Gcp, Kubernetes, Aws
